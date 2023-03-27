@@ -1,7 +1,7 @@
-8063
+8064
 159C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@parcel\transformer-sass\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest5.c133186792841550000 0
 60C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\yarn.lock133186794267681845 0
-55C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\docs133186839580249675 1
+55C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\docs133244161758349388 1
 127C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\@scope\pkg133186794246158504 1
 134C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@parcel\transformer-sass\node_modules\@parcel\workers\test\integration133186794218751921 1
 83C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\async\eachSeries.js133186793412390000 0
@@ -29,7 +29,7 @@
 89C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\terser\dist\bundle.min.js133186793191170000 0
 135C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@parcel\fs\node_modules\lmdb\dependencies\lz4\lib\dll\example\README.md133186792841550000 0
 83C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\readdirp\index.d.ts133186792814010000 0
-64C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\src\index.ejs133186799868618951 0
+64C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\src\index.ejs133244156131516243 0
 100C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\css-tree\lib\lexer\prepare-tokens.js133186793205510000 0
 106C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\utility-types\dist\functional-helpers.d.ts133186792818060000 0
 83C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\p-locate\index.d.ts133186793000690000 0
@@ -55,7 +55,7 @@
 115C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\caniuse-lite\data\features\contentsecuritypolicy.js133186793213540000 0
 117C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@parcel\fs\node_modules\@parcel\types\lib\unsafe.d.ts133186792818080000 0
 95C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@parcel\workers\src\cpuCount.js133186793011460000 0
-55C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\dist133186833267563398 1
+55C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\dist133244160995832083 1
 150C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@parcel\fs\node_modules\@parcel\package-manager\test\fixtures\has-foo\node_modules\foo133186794246098652 1
 109C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@parcel\transformer-raw\lib\RawTransformer.js133186793173040000 0
 94C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\src\ai2html-output\ai2html-images\.DS_Store133185486300000000 0
@@ -102,13 +102,13 @@
 100C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\caniuse-lite\data\features\webgpu.js133186793213540000 0
 107C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@parcel\fs\node_modules\lmdb\dist\index.cjs133186792841550000 0
 87C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\async\internal\range.js133186793412390000 0
-96C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\src\ai2html-output\ai2html-images\1-small.png133186833021210944 0
+96C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\src\ai2html-output\ai2html-images\1-small.png133244160798710944 0
 86C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\supports-color\license133186792847950000 0
 69C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\fastq133186794224127415 1
 82C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\css-what\readme.md133186793355600000 0
 103C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@parcel\runtime-js\src\helpers\.babelrc133186793144620000 0
 82C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\text-table\LICENSE133186792976800000 0
-84C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\src\ai2html-output\ai2html-images133186833034712057 1
+84C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\src\ai2html-output\ai2html-images133244160989992988 1
 178C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\.pnpm\source-pnpm@1.0.0\node_modules\source-pnpm\package.json133186793194190000 0
 96C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\uri-js\dist\es5\uri.all.min.d.ts133186792979800000 0
 90C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\yaml\browser\dist\types.js133186793319280000 0
@@ -117,7 +117,7 @@
 107C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\caniuse-lite\data\features\css-when-else.js133186793213540000 0
 97C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\uri-js\dist\esnext\schemes\wss.js133186792979800000 0
 119C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@parcel\fs\node_modules\@parcel\workers\lib\Profiler.js133186792830280000 0
-61C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\src\assets133186833059769635 1
+61C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\src\assets133244161025290366 1
 80C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\uri-js\README.md133186792979800000 0
 80C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\src\assets\ai2html-scrolly.ai133185486300000000 0
 118C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\caniuse-lite\data\features\css-indeterminate-pseudo.js133186793213540000 0
@@ -141,7 +141,7 @@
 70C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@babel133186790735697503 1
 109C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\caniuse-lite\dist\unpacker\browserVersions.js133186793213540000 0
 72C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\levn\lib133186794232864046 1
-82C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\dist\doge_3-mobile.7689c91b.jpg133186833265802643 0
+82C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\dist\doge_3-mobile.7689c91b.jpg133244155205311961 0
 120C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@parcel\optimizer-image\parcel-image.linux-x64-musl.node133186793128590000 0
 77C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\lmdb\level.js133186793021800000 0
 115C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@parcel\transformer-sass\node_modules\@parcel\cache133186794256071970 1
@@ -162,7 +162,7 @@
 92C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\svgo\plugins\cleanupAttrs.js133186793182660000 0
 116C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\caniuse-lite\data\features\page-transition-events.js133186793213540000 0
 76C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\yaml\pair.js133186793319280000 0
-66C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\src\assets\1.ai133186833059669902 0
+66C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\src\assets\1.ai133244161025140746 0
 85C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\css-tree\lib\index.js133186793205510000 0
 86C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\commander\package.json133186793096840000 0
 90C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\htmlnano\node_modules\.bin133186794257488210 1
@@ -181,7 +181,7 @@
 161C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@parcel\transformer-sass\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_stat.c133186792841550000 0
 100C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\src\ai2html-output\ai2html-images\doge_1-wide.jpg133185486300000000 0
 84C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\js-sdsl\CHANGELOG.md133186792973850000 0
-97C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\src\ai2html-output\ai2html-images\1-medium.png133186833016562496 0
+97C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\src\ai2html-output\ai2html-images\1-medium.png133244160793867184 0
 105C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\eslint\lib\rules\no-constructor-return.js133186792944150000 0
 83C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\isexe\test\basic.js133186792983300000 0
 126C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\js-sdsl\dist\cjs\container\SequentialContainer\Base\index.d.ts133186792973850000 0
@@ -224,7 +224,7 @@
 117C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\js-sdsl\dist\esm\container\HashContainer\HashMap.d.ts133186792973850000 0
 88C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\htmlparser2\lib\index.js133186793251270000 0
 90C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\utility-types\package.json133186792818060000 0
-75C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\src\ai2html-output\1.ejs133186833034801805 0
+75C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\src\ai2html-output\1.ejs133244160990231204 0
 124C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\htmlnano\docs\versioned_docs\version-1.1.1\060-contribute.md133186793176900000 0
 95C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\caniuse-lite\data\regions\PE.js133186793213540000 0
 91C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\lightningcss-win32-x64-msvc133186794224825548 1
@@ -256,7 +256,7 @@
 81C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\lightningcss\node133186794232854073 1
 121C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\js-sdsl\dist\cjs\container\SequentialContainer\Deque.d.ts133186792973850000 0
 86C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\caniuse-lite\README.md133186793213540000 0
-97C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\src\ai2html-output\ai2html-images\1-mobile.png133186833025859376 0
+97C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\src\ai2html-output\ai2html-images\1-mobile.png133244160803164064 0
 102C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\src\ai2html-output\ai2html-images\doge_1-medium.jpg133185486300000000 0
 80C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\stable\stable.js133186793212070000 0
 84C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\json5\lib\index.d.ts133186793108180000 0
@@ -268,7 +268,7 @@
 86C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\ajv\lib\dot\errors.def133186792958760000 0
 94C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\bootstrap\scss\_accordion.scss133186792807160000 0
 90C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\msgpackr-extract\README.md133186792902920000 0
-95C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\src\ai2html-output\ai2html-images\1-wide.png133186833010859376 0
+95C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\src\ai2html-output\ai2html-images\1-wide.png133244160787890624 0
 158C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@parcel\transformer-sass\node_modules\@parcel\package-manager\test\fixtures\has-foo\subpackage133186794245570063 1
 95C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\immutable\dist\immutable.min.js133186792807240000 0
 118C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\msgpackr\node_modules\.bin\download-msgpackr-prebuilds133186794257717571 0
@@ -294,7 +294,7 @@
 116C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@parcel\fs\node_modules\@parcel\workers\lib\types.js133186792830280000 0
 122C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\caniuse-lite\data\features\mdn-css-unicode-bidi-isolate.js133186793213540000 0
 76C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\yaml\browser133186794234749005 1
-100C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\src\ai2html-output\ai2html-images\1-wide_copy.png133186833034609376 0
+100C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\src\ai2html-output\ai2html-images\1-wide_copy.png133244160989843744 0
 71C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\globals133186794224296965 1
 101C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\src\ai2html-output\ai2html-images\doge_2-small.jpg133185486300000000 0
 104C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@parcel\transformer-postcss\node_modules133186794255892450 1
@@ -1373,7 +1373,7 @@
 159C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@parcel\transformer-sass\node_modules\@parcel\workers\test\integration\workerfarm\master-sum.js133186792830280000 0
 103C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\flat-cache\node_modules\.bin\rimraf.cmd133186794257358541 0
 76C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\yaml\LICENSE133186793319280000 0
-81C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\dist\doge_3-small.8a3e8793.jpg133186833266121791 0
+81C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\dist\doge_3-small.8a3e8793.jpg133244155205830580 0
 83C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\yaml\parse-cst.d.ts133186793319280000 0
 78C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\yaml\README.md133186793319280000 0
 118C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\js-sdsl\dist\cjs\container\TreeContainer\OrderedMap.js133186792973850000 0
@@ -1595,7 +1595,7 @@
 111C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@parcel\transformer-sass\node_modules\lmdb\dict133186794229722451 1
 116C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\json-stable-stringify-without-jsonify\example\str.js133186792972550000 0
 76C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\lmdb\open.js133186793021800000 0
-66C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\docs\index.html133186839580209987 0
+66C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\docs\index.html133244161758319196 0
 119C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\lmdb.h133186793021800000 0
 94C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\detect-libc\lib\detect-libc.js133186792829310000 0
 115C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@jridgewell\gen-mapping\dist\types\gen-mapping.d.ts133186793357050000 0
@@ -1657,7 +1657,7 @@
 111C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\caniuse-lite\data\features\loading-lazy-attr.js133186793213540000 0
 85C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\htmlnano\package.json133186793176900000 0
 96C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\type-fest\source\promisable.d.ts133186793000310000 0
-76C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\dist\1-small.e5d86ab6.png133186833265722857 0
+76C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\dist\1-small.e5d86ab6.png133244156151483212 0
 79C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\uri-js\dist\es5133186794243186436 1
 82C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\uri-js\dist\esnext133186794243276205 1
 97C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\uri-js\dist\esnext\regexps-iri.js133186792979800000 0
@@ -2682,7 +2682,7 @@
 136C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@parcel\transformer-sass\node_modules\@parcel\logger\test\Logger.test.js133186792834060000 0
 116C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@swc\helpers\src\_class_private_field_loose_base.mjs133186793194950000 0
 97C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\parcel\node_modules\@parcel\types133186790736674885 1
-77C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\dist\index.59a40e7a.js.map133186833266331233 0
+77C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\dist\index.59a40e7a.js.map133244156152251473 0
 97C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\parcel\node_modules\@parcel\utils133186790736475416 1
 98C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@parcel\core\src\RequestTracker.js133186793136510000 0
 151C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@parcel\fs\node_modules\@parcel\workers\test\integration\workerfarm\shared-reference.js133186792830280000 0
@@ -2793,7 +2793,7 @@
 96C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\ordered-binary\.idea\modules.xml133186792857330000 0
 115C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\caniuse-lite\data\features\constraint-validation.js133186793213540000 0
 87C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\optionator\CHANGELOG.md133186792975760000 0
-77C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\dist\1-mobile.f8a552e7.png133186805022353176 0
+77C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\dist\1-mobile.f8a552e7.png133244156150436013 0
 88C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@popperjs\core\lib\utils133186794236324792 1
 82C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\optionator\LICENSE133186792975760000 0
 117C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@popperjs\core\dist\esm\utils\getOppositePlacement.js133186792807270000 0
@@ -3012,7 +3012,7 @@
 122C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\msgpackr\node_modules\.bin\download-msgpackr-prebuilds.cmd133186794257717571 0
 95C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\caniuse-lite\data\regions\SM.js133186793213540000 0
 81C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\csso\CHANGELOG.md133186793211970000 0
-81C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\dist\doge_1-small.141f0b12.jpg133186805022243477 0
+81C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\dist\doge_1-small.141f0b12.jpg133244155205262095 0
 95C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\msgpackr\dist\index-no-eval.cjs133186792855060000 0
 90C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\msgpackr\dist\index.js.map133186792855060000 0
 115C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_stat.c133186793021800000 0
@@ -3602,7 +3602,7 @@
 87C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\entities\lib\index.d.ts133186793366970000 0
 107C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@parcel\utils\test\input\config\config.json133186793006370000 0
 107C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\caniuse-lite\data\features\iframe-srcdoc.js133186793213540000 0
-82C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\dist\doge_2-medium.1df75734.jpg133186833265772730 0
+82C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\dist\doge_2-medium.1df75734.jpg133244155205292205 0
 100C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@swc\helpers\lib\_to_property_key.js133186793194950000 0
 104C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\js-sdsl\dist\cjs\container\TreeContainer133186794245988948 1
 109C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\js-sdsl\dist\cjs\container\TreeContainer\Base133186794246278170 1
@@ -4932,7 +4932,7 @@
 97C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\css-tree\lib\syntax\pseudo\not.js133186793205510000 0
 108C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\css-tree\lib\syntax\pseudo\nth-last-child.js133186793205510000 0
 107C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\caniuse-lite\data\features\link-icon-png.js133186793213540000 0
-88C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\dist\ai2html-test-medium.c5d83cc8.png133186833266051975 0
+88C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\dist\ai2html-test-medium.c5d83cc8.png133244155205770754 0
 99C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\css-tree\lib\syntax\node\AnPlusB.js133186793205510000 0
 98C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\css-tree\lib\syntax\node\Atrule.js133186793205510000 0
 97C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\css-tree\lib\syntax\node\Block.js133186793205510000 0
@@ -5349,7 +5349,7 @@
 97C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@parcel\core\lib\public\Target.js133186793136510000 0
 107C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\caniuse-lite\data\features\ambient-light.js133186793213540000 0
 104C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\caniuse-lite\data\features\array-find.js133186793213540000 0
-80C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\dist\doge_3-wide.8a8ba97e.jpg133186833266032031 0
+80C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\dist\doge_3-wide.8a8ba97e.jpg133244155205651057 0
 109C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\caniuse-lite\data\features\async-functions.js133186793213540000 0
 103C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\caniuse-lite\data\features\audio-api.js133186793213540000 0
 145C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@parcel\transformer-sass\node_modules\@parcel\package-manager\test\fixtures\empty133186794243934460 1
@@ -5635,7 +5635,7 @@
 98C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\caniuse-lite\data\features\spdy.js133186793213540000 0
 109C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@swc\helpers\src\_iterable_to_array_limit.mjs133186793194950000 0
 105C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\caniuse-lite\data\features\sql-storage.js133186793213540000 0
-87C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\dist\ai2html-test-small.c0ae25ee.png133186833265722857 0
+87C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\dist\ai2html-test-small.c0ae25ee.png133244155205192296 0
 116C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@parcel\core\test\fixtures\library-custom-scopehoist133186794243784837 1
 98C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\bootstrap\scss\utilities\_api.scss133186792807160000 0
 100C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\caniuse-lite\data\features\stream.js133186793213540000 0
@@ -6430,7 +6430,7 @@
 114C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@popperjs\core\lib\dom-utils\getComputedStyle.d.ts133186792807270000 0
 116C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@popperjs\core\lib\dom-utils\getDocumentElement.d.ts133186792807270000 0
 114C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@popperjs\core\lib\dom-utils\getDocumentElement.js133186792807270000 0
-75C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\dist\1-wide.b825afb3.png133186833266042003 0
+75C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\dist\1-wide.b825afb3.png133244156150436013 0
 106C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@parcel\packager-js\src\ESMOutputFormat.js133186793403810000 0
 113C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@popperjs\core\lib\dom-utils\getDocumentRect.d.ts133186792807270000 0
 151C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@parcel\transformer-sass\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\Doxyfile133186792841550000 0
@@ -6661,7 +6661,7 @@
 127C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@parcel\watcher\node_modules\node-addon-api\tools\conversion.js133186792876710000 0
 125C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@parcel\transformer-sass\node_modules\@parcel\diagnostic\test133186794230410611 1
 123C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@parcel\watcher\node_modules\node-addon-api\tools\README.md133186792876710000 0
-81C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\dist\doge_2-small.c9c8875a.jpg133186805022263420 0
+81C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\dist\doge_2-small.c9c8875a.jpg133244155205561299 0
 117C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@parcel\watcher\node_modules\.bin\node-gyp-build-test133186794256690318 0
 116C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@parcel\watcher\node_modules\.bin\node-gyp-build.cmd133186794256650422 0
 90C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@parcel\utils\.eslintrc.js133186793006370000 0
@@ -6853,7 +6853,7 @@
 93C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@babel\highlight\lib\index.js133186793396090000 0
 154C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@parcel\transformer-sass\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest_enc.c133186792841550000 0
 155C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@parcel\transformer-sass\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest_enc2.c133186792841550000 0
-82C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\dist\doge_2-mobile.d7177a4a.jpg133186805022243477 0
+82C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\dist\doge_2-mobile.d7177a4a.jpg133244155205780717 0
 157C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@parcel\transformer-sass\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\sample-bdb.txt133186792841550000 0
 157C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@parcel\transformer-sass\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\sample-mdb.txt133186792841550000 0
 96C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@nodelib\fs.scandir\package.json133186792978980000 0
@@ -7293,7 +7293,7 @@
 111C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@parcel\package-manager\src\NodeResolverBase.js133186793004740000 0
 99C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@parcel\package-manager\src\Pnpm.js133186793004740000 0
 113C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@parcel\package-manager\src\promiseFromProcess.js133186793004740000 0
-66C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\dist\index.html133186833267563398 0
+66C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\dist\index.html133244160995812121 0
 100C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@parcel\package-manager\src\types.js133186793004740000 0
 103C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@parcel\node-resolver-core\node_modules133186794254466267 1
 99C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@parcel\package-manager\src\Yarn.js133186793004740000 0
@@ -7474,7 +7474,7 @@
 78C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@parcel\fs\src133186794227099470 1
 87C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@parcel\fs\src\index.js133186792862170000 0
 96C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@parcel\fs\src\NodeFS.browser.js133186792862170000 0
-80C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\dist\doge_2-wide.c0f02dea.jpg133186833266091874 0
+80C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\dist\doge_2-wide.c0f02dea.jpg133244155205810632 0
 87C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@parcel\fs\src\types.js133186792862170000 0
 92C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@parcel\fs\node_modules\lmdb133186794254236880 1
 134C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@parcel\fs\node_modules\node-gyp-build-optional-packages\build-test.js133186792854840000 0
@@ -7658,7 +7658,7 @@
 122C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@parcel\fs\node_modules\@parcel\markdown-ansi\package.json133186792855150000 0
 114C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@parcel\fs\node_modules\@parcel\markdown-ansi\test133186794230081488 1
 131C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@parcel\fs\node_modules\@parcel\markdown-ansi\test\markdown-ansi.js133186792855150000 0
-82C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\dist\doge_1-mobile.9e64bbdc.jpg133186833265752780 0
+82C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\dist\doge_1-mobile.9e64bbdc.jpg133244155205471546 0
 106C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@parcel\fs\node_modules\@parcel\logger\lib133186794230001717 1
 110C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@parcel\fs\node_modules\@parcel\logger\LICENSE133186792834060000 0
 107C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@parcel\fs\node_modules\@parcel\logger\test133186794230001717 1
@@ -7792,7 +7792,7 @@
 97C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@parcel\core\src\public\Bundle.js133186793136510000 0
 102C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@parcel\core\src\public\BundleGroup.js133186793136510000 0
 104C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@parcel\core\src\public\PluginOptions.js133186793136510000 0
-77C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\dist\1-medium.ed5aa586.png133186833265722857 0
+77C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\dist\1-medium.ed5aa586.png133244156150525816 0
 94C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@parcel\core\node_modules\.bin133186794253788082 1
 107C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@parcel\core\node_modules\@parcel\codeframe133186790735557869 1
 111C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@parcel\core\node_modules\@parcel\markdown-ansi133186790736126361 1
@@ -8001,7 +8001,7 @@
 105C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@eslint\eslintrc\lib\shared\config-ops.js133186792953620000 0
 105C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@babel\highlight\node_modules\ansi-styles133186794220537024 1
 115C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@eslint\eslintrc\lib\shared\deprecation-warnings.js133186792953620000 0
-80C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\dist\1-wide_copy.d27b2464.png133186833265722857 0
+80C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\dist\1-wide_copy.d27b2464.png133244160134004604 0
 100C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@eslint\eslintrc\lib\shared\types.js133186792953620000 0
 118C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@eslint\eslintrc\lib\config-array\config-dependency.js133186792953620000 0
 117C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\@eslint\eslintrc\lib\config-array\extracted-config.js133186792953620000 0
@@ -8049,16 +8049,17 @@
 77C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\.bin\svgo.cmd133186794259223579 0
 79C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\node_modules\.bin\terser.cmd133186794259263450 0
 75C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\docs\1-wide.cb3d7285.png133186839557062340 0
+80C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\docs\1-wide_copy.3faea616.png133244161758319196 0
 88C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\docs\ai2html-test-medium.1a4dba0b.png133186839557102228 0
 82C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\docs\doge_1-mobile.2f21f932.jpg133186839539410973 0
 81C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\docs\doge_2-small.e3c6da08.jpg133186839539410973 0
 82C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\docs\doge_3-medium.e738d4a7.jpg133186839539410973 0
 82C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\docs\doge_3-mobile.198dc8bd.jpg133186839564511684 0
-88C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\dist\ai2html-test-mobile.a38bf855.png133186833265722857 0
-86C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\dist\ai2html-test-wide.cbddd29e.png133186833265752780 0
-82C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\dist\doge_1-medium.79997cda.jpg133186833266061949 0
-80C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\dist\doge_1-wide.a732a31d.jpg133186833265812617 0
-82C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\dist\doge_3-medium.b201fcda.jpg133186833265952244 0
-73C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\dist\index.59a40e7a.js133186833266291333 0
-74C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\dist\index.c92073ef.css133186833265722857 0
-78C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\dist\index.c92073ef.css.map133186833265962217 0
+88C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\dist\ai2html-test-mobile.a38bf855.png133244155205461560 0
+86C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\dist\ai2html-test-wide.cbddd29e.png133244155205471546 0
+82C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\dist\doge_1-medium.79997cda.jpg133244155205790684 0
+80C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\dist\doge_1-wide.a732a31d.jpg133244155205621131 0
+82C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\dist\doge_3-medium.b201fcda.jpg133244155205730844 0
+73C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\dist\index.59a40e7a.js133244156152211289 0
+74C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\dist\index.c92073ef.css133244156151283745 0
+78C:\Users\aryaa\OneDrive\Documents\GitHub\projectA1\dist\index.c92073ef.css.map133244156151343584 0
